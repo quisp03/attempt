@@ -3,14 +3,20 @@
 
 # How to Set Up the Environment
 - To install the required environment, run the following:
-```conda env create -f requirements.yaml``` 
-
+```python
+conda env create -f requirements.yaml
+``` 
 
 - Activate the environment:
-```conda activate cs_assign1``` 
+```python
+conda activate cs_assign1
+```
+
 # Running the program
 - To run the program, input the following:
-```python decorators.py```
+```python
+python decorators.py
+```
 
 # Image
 - Image of a puppy
