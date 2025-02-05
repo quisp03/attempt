@@ -3,18 +3,18 @@
 
 # How to Set Up the Environment
 - To install the required environment, run the following:
-```python
+```bash
 conda env create -f requirements.yaml
 ``` 
 
 - Activate the environment:
-```python
+```bash
 conda activate cs_assign1
 ```
 
 # Running the program
 - To run the program, input the following:
-```python
+```bash
 python decorators.py
 ```
 
